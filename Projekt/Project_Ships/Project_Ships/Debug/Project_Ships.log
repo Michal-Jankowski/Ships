@@ -1,0 +1,13 @@
+﻿  Board.cpp
+  Check_Tile.cpp
+  ComputerPlayer.cpp
+  Display_Interface.cpp
+  Field.cpp
+  Game.cpp
+  HumanPlayer.cpp
+  Main.cpp
+  Parameters.cpp
+  Player.cpp
+  Ship.cpp
+  Generating Code...
+  Project_Ships.vcxproj -> D:\Repo_studia\Projekt\Project_Ships\Debug\Project_Ships.exe
